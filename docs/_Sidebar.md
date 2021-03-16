@@ -1,0 +1,22 @@
+## English
+* [Home](https://github.com/XDagger/xdag/wiki)
+* [Dagger [XDAG] information](https://github.com/XDagger/xdag/wiki/Dagger-%5BXDAG%5D-information)
+* [Get a wallet](https://github.com/XDagger/xdag/wiki/Get-a-wallet)
+* [Getting started](https://github.com/XDagger/xdag/wiki/Getting-started)
+* [How To Contribute](https://github.com/XDagger/xdag/wiki/How-To-Contribute)
+* [JSON RPC API](https://github.com/XDagger/xdag/wiki/JSON-RPC-API)
+* [JSON RPC Examples](https://github.com/XDagger/xdag/wiki/JSON-RPC-Examples)
+* [White List](https://github.com/XDagger/xdag/wiki/White-List)
+* [Mineable Pool List](https://github.com/XDagger/xdag/wiki/Mineable-Pool-List)
+* [XDAG commented repository](https://github.com/XDagger/xdag/wiki/The-xdag-commented-repository)
+
+## 简体中文
+* [首页](https://github.com/XDagger/xdag/wiki/zh_CN-Home)
+* [XDAG介绍](https://github.com/XDagger/xdag/wiki/Dagger-%5BXDAG%5D-information)
+* [钱包教程](https://github.com/XDagger/xdag/wiki/Get-a-wallet)
+* [如何开始](https://github.com/XDagger/xdag/wiki/Getting-started)
+* [如何参与贡献](https://github.com/XDagger/xdag/wiki/How-To-Contribute)
+* [JSON RPC API](https://github.com/XDagger/xdag/wiki/JSON-RPC-API)
+* [JSON RPC Examples](https://github.com/XDagger/xdag/wiki/JSON-RPC-Examples)
+* [白名单列表 矿池/浏览器](https://github.com/XDagger/xdag/wiki/White-List)
+* [可用矿池列表](https://github.com/XDagger/xdag/wiki/Mineable-Pool-List)

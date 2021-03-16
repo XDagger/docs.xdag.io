@@ -1,0 +1,1 @@
+Please check the Contributing.md in sourcecode.
